@@ -34,15 +34,7 @@ hayoo word ! i'am kathan 👋<br><br>🔭 I’m currently working on Building a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kathanin&show_icons=true&theme=radical&hide_border=false&random=1" alt="Kathan's GitHub Stats" />
-
-<br/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=kathanin&theme=radical&hide_border=false" alt="Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathanin&theme=radical&hide_border=false&layout=compact&random=1" alt="Top Langs" />
 
 </div>
 
