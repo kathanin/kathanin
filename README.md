@@ -26,11 +26,25 @@ hayoo word ! i'am kathan 👋<br><br>🔭 I’m currently working on Building a 
 
 ## 📊 GitHub Stats:
 
-![Kathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathanin&show_icons=true&theme=radical)
+<!-- ![Kathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kathanin&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=kathanin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kathanin&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathanin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathanin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kathanin&show_icons=true&theme=radical&hide_border=false" alt="Kathan's GitHub stats" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=kathanin&theme=radical&hide_border=false" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathanin&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />
+
+</div>
 
 ---
 
