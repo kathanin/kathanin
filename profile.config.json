@@ -1,0 +1,99 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Kathan Indra Nugraha",
+    "username": "kathanin",
+    "headline": "Building intelligent and robust web systems",
+    "affiliation": "Universitas Teknologi Bandung",
+    "location": "Bandung, Indonesia",
+    "status": "Building / Shipping",
+    "about": [
+      "I am a Computer Science graduate specializing in full-stack web engineering and predictive machine learning models.",
+      "My work focuses on bridging intelligent algorithms with scalable, practical web architectures that deliver real value."
+    ]
+  },
+  "research": {
+    "primary": "Applied AI",
+    "direction": "Intelligent web systems",
+    "themes": "Neural networks / Web automation",
+    "narrative": "I am focused on designing robust applications that embed machine learning models into clean, modern user interfaces."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Building scalable full-stack applications, robust API integrations, and responsive user interfaces."
+    },
+    {
+      "name": "Machine Learning",
+      "description": "Developing predictive neural network models, managing data distributions, and deploying Flask APIs."
+    },
+    {
+      "name": "Applied AI",
+      "description": "Integrating intelligent models into web architectures to deliver automated and user-centric solutions."
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Designing intuitive, clean user interfaces and crafting engaging, modern digital experiences."
+    }
+  ],
+  "projects": [
+    {
+      "name": "ReTrash",
+      "url": "https://github.com/kathanin",
+      "homepage": "",
+      "focus": "UI/UX Design for Recycling Solutions",
+      "summary": "A mobile application interface design focused on providing smart environmental recycling solutions.",
+      "heroLabel": "UI/UX Design"
+    },
+    {
+      "name": "Credit Classifier",
+      "url": "https://github.com/kathanin",
+      "homepage": "",
+      "focus": "Machine Learning & Web Deployment",
+      "summary": "A web application deploying a neural network model to classify bank customer creditworthiness.",
+      "heroLabel": "Machine Learning"
+    },
+    {
+      "name": "Personal Portfolio",
+      "url": "https://github.com/kathanin",
+      "homepage": "",
+      "focus": "Web Development & Frontend Design",
+      "summary": "The first version of my personal portfolio website built to showcase my web engineering projects.",
+      "heroLabel": "Web Portfolio"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Laravel",
+    "Tailwind CSS",
+    "Python",
+    "TensorFlow",
+    "Flask API"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "kathanin",
+      "url": "https://github.com/kathanin",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "Website",
+      "value": "kathanin.com",
+      "url": "https://kathanin.com",
+      "logo": "globe",
+      "color": "0284C7"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Building intelligent web systems and engineering solutions that deliver impact."
+}
